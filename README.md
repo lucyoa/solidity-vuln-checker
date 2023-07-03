@@ -1,6 +1,6 @@
 # Solidity Vuln Checker
 
-Iterates over knowns vulns in solidity compiler.
+Iterates over known vulns in solidity compiler.
 
 ### Update
 ```
